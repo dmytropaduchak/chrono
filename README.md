@@ -1,4 +1,4 @@
-# Chrono Commit Clock
+# Chrono 
 
 A minimal pixel clock inspired by the GitHub contributions heatmap. Time is rendered as pixel text inside a fixed square grid, with a dark GitHub-style backdrop and configurable accent colors.
 
