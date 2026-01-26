@@ -1,6 +1,12 @@
-# Chrono 
+# Chrono
 
 A minimal pixel clock inspired by the GitHub contributions heatmap. Time is rendered as pixel text inside a fixed square grid, with a dark GitHub-style backdrop and configurable accent colors.
+
+![screenshot](https://github.com/dmytropaduchak/chrono/main/img/screenshot.png)
+
+## ⬇️ Download
+
+![macOS](https://github.com/dmytropaduchak/chrono/dmg/Chrono.dmg)
 
 ## Features
 - Pixel-font digits rendered from 5x7 glyph maps (no text rendering).
