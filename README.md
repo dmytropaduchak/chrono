@@ -33,14 +33,3 @@ export GITHUB_TOKEN=your_token_here
 ```
 
 Or create `~/.config/chrono/token` with the token.
-
-## Structure
-- `src/main.rs` contains:
-  - Pixel font definition
-  - Grid renderer
-  - Clock formatting and layout logic
-  - Theme configuration
-
-## Notes
-- The grid and glyphs are easy to extend for new modes (e.g., inverted grid or GitHub API overlays).
-- The display redraws once per frame with a low-cost loop suitable for 1 Hz updates.
