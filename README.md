@@ -31,5 +31,3 @@ To show your open PRs, set a classic GitHub PAT with access to your repos.
 ```bash
 export GITHUB_TOKEN=your_token_here
 ```
-
-Or create `~/.config/chrono/token` with the token.
