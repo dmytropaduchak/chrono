@@ -4,9 +4,9 @@ A minimal pixel clock inspired by the GitHub contributions heatmap. Time is rend
 
 ![screenshot](./screenshots/screenshot.png)
  
-[⬇ Download for MacOS (beta)](./releases/chrono.dmg)
+<!-- [⬇ Download for MacOS (beta)](./releases/chrono.dmg)
 
-[⬇ Download for Windows (beta)](./releases/chrono.exe)
+[⬇ Download for Windows (beta)](./releases/chrono.exe) -->
 
 ## Features
 - Pixel-font digits rendered from 5x7 glyph maps (no text rendering).
