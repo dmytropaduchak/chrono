@@ -1,3 +1,8 @@
+# 🇺🇦 HELP UKRAINE
+
+We fight for democratic values, for freedom, for our future. We need your support. 
+Solidarity with the Ukrainian people against the Russian invasion [Find out how you can help.](https://war.ukraine.ua/support-ukraine/).
+
 # Chrono
 
 A minimal pixel clock inspired by the GitHub contributions heatmap. Time is rendered as pixel text inside a fixed square grid, with a dark GitHub-style backdrop and configurable accent colors.
